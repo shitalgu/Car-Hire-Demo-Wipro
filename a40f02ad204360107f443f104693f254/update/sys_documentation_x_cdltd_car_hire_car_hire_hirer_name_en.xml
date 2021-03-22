@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hirer_name" label="Hirer name" language="en" table="x_cdltd_car_hire_car_hire">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hirer_name</element>
+            <help/>
+            <hint/>
+            <label>Hirer name</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <plural>Hirer names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-22 09:33:16</sys_created_on>
+            <sys_id>c61a9a65208360107f443f104693f298</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hirer name</sys_name>
+            <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_car_hire_car_hire_hirer_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-22 09:33:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
