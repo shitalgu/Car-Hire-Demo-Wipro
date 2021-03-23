@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>brand_name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 07:01:35</sys_created_on>
+        <sys_data_policy display_value="">85e04f71200f60107f443f104693f242</sys_data_policy>
+        <sys_id>4cf08f71200f60107f443f104693f2fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>brand_name</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+        <sys_update_name>sys_data_policy_rule_4cf08f71200f60107f443f104693f2fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 07:01:35</sys_updated_on>
+        <table>x_cdltd_car_hire_car_hire</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">a40f02ad204360107f443f104693f254</application>
+        <file_path/>
+        <instance_id>836ec601db0b241099ea353a6896199e</instance_id>
+        <instance_name>adf-mar-175-dev-001-instructor</instance_name>
+        <name>sys_data_policy_rule_4cf08f71200f60107f443f104693f2fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>brand_name</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-23 07:01:35</sys_created_on><sys_data_policy display_value="">85e04f71200f60107f443f104693f242</sys_data_policy><sys_id>4cf08f71200f60107f443f104693f2fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>brand_name</sys_name><sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package><sys_policy/><sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope><sys_update_name>sys_data_policy_rule_4cf08f71200f60107f443f104693f2fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-23 07:01:35</sys_updated_on><table>x_cdltd_car_hire_car_hire</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>2026582398</payload_hash>
+        <record_name>brand_name</record_name>
+        <reverted_from/>
+        <source>f5895265208360107f443f104693f298</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 07:01:35</sys_created_on>
+        <sys_id>f1f0cf71200f60107f443f104693f20d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1785de385560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 07:01:35</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>3df0cf71710f6010243d02401fb8ee0c</update_guid>
+        <update_guid_history>3df0cf71710f6010243d02401fb8ee0c:2026582398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 09:23:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>82da9e520bde45a093913db53a651c40</sys_id>
+        <sys_metadata>4cf08f71200f60107f443f104693f2fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>brand_name</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+        <sys_scope_delete display_value="">0f0f3c50f5b4449fa02f1a78619c8711</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_4cf08f71200f60107f443f104693f2fb</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_4cf08f71200f60107f443f104693f2fb">f1f0cf71200f60107f443f104693f20d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 09:23:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

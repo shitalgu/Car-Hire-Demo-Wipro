@@ -8,7 +8,7 @@
         <icon/>
         <label>New</label>
         <location>top</location>
-        <name>New (Car Hire)</name>
+        <name>New</name>
         <order/>
         <parent>c0a052ed204360107f443f104693f261</parent>
         <parent_table>sys_sg_screen</parent_table>
@@ -16,15 +16,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-03-22 08:51:54</sys_created_on>
         <sys_id>8ca052ed204360107f443f104693f282</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>New (Car Hire)</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New</sys_name>
         <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
         <sys_policy/>
         <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
         <sys_update_name>sys_sg_button_instance_8ca052ed204360107f443f104693f282</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-22 08:51:54</sys_updated_on>
-        <table/>
+        <sys_updated_on>2021-03-23 09:33:38</sys_updated_on>
+        <table>x_cdltd_car_hire_car_hire</table>
     </sys_sg_button_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=8ca052ed204360107f443f104693f282"/>
 </record_update>
