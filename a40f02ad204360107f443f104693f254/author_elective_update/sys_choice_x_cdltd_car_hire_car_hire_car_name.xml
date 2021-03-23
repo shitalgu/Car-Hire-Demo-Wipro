@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="car_name" table="x_cdltd_car_hire_car_hire" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>tata</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tata Nexon</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 04:10:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27d99ef9208b60107f443f104693f217</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:11:03</sys_updated_on>
+            <value>nexon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>tata</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tata Safari</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 04:10:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46d99ef9208b60107f443f104693f238</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:11:00</sys_updated_on>
+            <value>safari</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>maruti</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vitara Brezza</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd9216f5208b60107f443f104693f2f5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:06</sys_updated_on>
+            <value>brezza</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>maruti</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baleno</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b99216f5208b60107f443f104693f2f7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:10</sys_updated_on>
+            <value>baleno</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>vw</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volkswagen Polo</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>759216f5208b60107f443f104693f2f9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:14</sys_updated_on>
+            <value>polo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>vw</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volkswagen Vento</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>319216f5208b60107f443f104693f2fb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:17</sys_updated_on>
+            <value>vento</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>vw</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volkswagen T-Roc</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f99216f5208b60107f443f104693f2fc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:24</sys_updated_on>
+            <value>t-roc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>hyundai</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyundai Venue</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b59216f5208b60107f443f104693f2fe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:30</sys_updated_on>
+            <value>venue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>hyundai</dependent_value>
+            <element>car_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyundai Verna</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-23 03:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>719256f5208b60107f443f104693f200</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-23 04:09:34</sys_updated_on>
+            <value>verna</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>car_name</element>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-22 11:23:08</sys_created_on>
+            <sys_id>6333f62520c360107f443f104693f2b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>car_name</sys_name>
+            <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_car_hire_car_hire_car_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-22 11:23:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

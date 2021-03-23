@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="pick_up_time" table="x_cdltd_car_hire_car_hire">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="other_location" table="x_cdltd_car_hire_car_hire">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Pick Up Time</column_label>
+        <column_label>Other Location</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,12 +22,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>pick_up_time</element>
+        <element>other_location</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">glide_date_time</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_cdltd_car_hire_car_hire</name>
@@ -47,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-03-22 08:51:32</sys_created_on>
-        <sys_id>7a8012ed204360107f443f104693f21e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Pick Up Time</sys_name>
+        <sys_created_on>2021-03-23 04:12:44</sys_created_on>
+        <sys_id>a45a923d208b60107f443f104693f2cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other Location</sys_name>
         <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
         <sys_policy/>
         <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
-        <sys_update_name>sys_dictionary_x_cdltd_car_hire_car_hire_pick_up_time</sys_update_name>
+        <sys_update_name>sys_dictionary_x_cdltd_car_hire_car_hire_other_location</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-23 04:16:37</sys_updated_on>
+        <sys_updated_on>2021-03-23 04:12:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
