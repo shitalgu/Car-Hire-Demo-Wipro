@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Number of hours for DL Team to validate the DL</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cdltd_car_hire.dl.validation.time</name>
+        <read_roles/>
+        <suffix>dl.validation.time</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 11:13:52</sys_created_on>
+        <sys_id>850a733d208f60107f443f104693f291</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_car_hire.dl.validation.time</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+        <sys_update_name>sys_properties_850a733d208f60107f443f104693f291</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 11:13:52</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=850a733d208f60107f443f104693f291"/>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_cdltd_car_hire.MathsFunction</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>MathsFunction</name>
+        <script><![CDATA[var MathsFunction = Class.create();
+MathsFunction.prototype = {
+    initialize: function() {
+		
+    },
+
+	sum :function(a,b){
+		var c=a+b;
+		return c;
+	},
+	
+    type: 'MathsFunction'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 05:30:51</sys_created_on>
+        <sys_id>7c35b78a20c7a0107f443f104693f2e8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MathsFunction</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+        <sys_update_name>sys_script_include_7c35b78a20c7a0107f443f104693f2e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-24 05:32:25</sys_updated_on>
+    </sys_script_include>
+</record_update>
