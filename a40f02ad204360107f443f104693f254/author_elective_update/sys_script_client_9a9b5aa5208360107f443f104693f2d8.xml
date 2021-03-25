@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>test</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	alert("this is just the test")
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 09:40:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a9b5aa5208360107f443f104693f2d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+        <sys_update_name>sys_script_client_9a9b5aa5208360107f443f104693f2d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 09:40:11</sys_updated_on>
+        <table>x_cdltd_car_hire_car_hire</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">a40f02ad204360107f443f104693f254</application>
+        <file_path/>
+        <instance_id>836ec601db0b241099ea353a6896199e</instance_id>
+        <instance_name>adf-mar-175-dev-001-instructor</instance_name>
+        <name>sys_script_client_9a9b5aa5208360107f443f104693f2d8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;test&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	alert("this is just the test")
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-22 09:40:11&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9a9b5aa5208360107f443f104693f2d8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;test&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Car Hire Management" source="x_cdltd_car_hire"&gt;a40f02ad204360107f443f104693f254&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Car Hire Management"&gt;a40f02ad204360107f443f104693f254&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_9a9b5aa5208360107f443f104693f2d8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-22 09:40:11&lt;/sys_updated_on&gt;&lt;table&gt;x_cdltd_car_hire_car_hire&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-181095516</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>c70cdea5208360107f443f104693f26a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 09:41:48</sys_created_on>
+        <sys_id>070cdea5208360107f443f104693f281</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178594fd8fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 09:41:48</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>e7ab5aa5a5836010150ad9d9a7bae0ef</update_guid>
+        <update_guid_history>e7ab5aa5a5836010150ad9d9a7bae0ef:-181095516,3edb1ea563836010086e597e4a1218bf:145948824,e7ab5aa5a5836010150ad9d9a7bae0ef:-181095516</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 11:16:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>05bb4d6ea2d64b8880c9aa784e1c5464</sys_id>
+        <sys_metadata>9a9b5aa5208360107f443f104693f2d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">a40f02ad204360107f443f104693f254</sys_package>
+        <sys_parent display_value="Car Hire">6680dead204360107f443f104693f2bf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">a40f02ad204360107f443f104693f254</sys_scope>
+        <sys_scope_delete display_value="">0f0f3c50f5b4449fa02f1a78619c8711</sys_scope_delete>
+        <sys_update_name>sys_script_client_9a9b5aa5208360107f443f104693f2d8</sys_update_name>
+        <sys_update_version display_value="sys_script_client_9a9b5aa5208360107f443f104693f2d8">070cdea5208360107f443f104693f281</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:16:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
